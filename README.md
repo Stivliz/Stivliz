@@ -16,7 +16,9 @@ Actualmente estoy finalizando mis estudios y adquiriendo conocimientos y experie
 
 
 ### 🚀 ¿Cuál es mi rumbo?  
-Mi rumbo se enfoca en consolidar mis estudios y adquirir experiencia colaborativa para aplicar ese conocimiento en proyectos que generen un impacto significativo. Busco desarrollar soluciones innovadoras y contribuir al avance en áreas que me apasionan. Estoy comprometido con mi crecimiento personal y profesional, buscando constantemente oportunidades para aprender, mejorar mis habilidades y enfrentar nuevos desafíos.   
+Mi rumbo se enfoca en consolidar mis estudios y adquirir experiencia colaborativa para aplicar ese conocimiento en proyectos que generen un impacto significativo. Busco desarrollar soluciones innovadoras y contribuir al avance en áreas que me apasionan. 
+
+Estoy comprometido con mi crecimiento personal y profesional, buscando constantemente oportunidades para aprender, mejorar mis habilidades y enfrentar nuevos desafíos.   
   
 
 <br/>  
