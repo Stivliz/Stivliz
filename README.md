@@ -9,7 +9,7 @@ Soy un desarrollador web full-stack con una mentalidad colaborativa, dispuesto a
 
 
 
-### 👨🏻‍💻 Mi actividad presente  
+### 👨🏻‍💻 Mi actualidad  
 Actualmente estoy finalizando mis estudios y adquiriendo conocimientos y experiencia de manera colaborativa. Mi objetivo es aplicar ese conocimiento en proyectos que generen un impacto positivo y aporten soluciones innovadoras  
   
 
