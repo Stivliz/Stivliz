@@ -24,7 +24,7 @@ Estoy comprometido con mi crecimiento personal y profesional, buscando constante
 <br/>  
 
 
-## My Skill Set  
+## My skill set  
 <table><tr><td valign="top" width="33%">
 
 
