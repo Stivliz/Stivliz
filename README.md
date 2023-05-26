@@ -21,8 +21,6 @@ Mi rumbo se enfoca en consolidar mis estudios y adquirir experiencia colaborativ
 Estoy comprometido con mi crecimiento personal y profesional, buscando constantemente oportunidades para aprender, mejorar mis habilidades y enfrentar nuevos desafíos.   
   
 
-<br/>  
-
 
 ## My skill set  
 <table><tr><td valign="top" width="33%">
