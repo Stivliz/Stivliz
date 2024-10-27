@@ -88,7 +88,8 @@ Estoy comprometido con mi crecimiento personal y profesional, buscando constante
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stivliz&theme=onedark&show_icons=true&hide_border=true&count_private=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Stivliz&theme=onedark&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivliz&theme=onedark&show_icons=true&hide_border=true&layout=compact" align="center" /></div> 
 
  
 
